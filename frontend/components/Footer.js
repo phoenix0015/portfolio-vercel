@@ -58,7 +58,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="border-t border-gray-700 pt-8">
           <p className="text-center text-gray-400">
-            © {new Date().getFullYear()} Your Name. All rights reserved.
+            © {new Date().getFullYear()} Osama Ramadan. All rights reserved.
           </p>
         </div>
       </div>
